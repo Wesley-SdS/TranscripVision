@@ -22,12 +22,15 @@ Antes de começar, certifique-se de que você tenha os seguintes pré-requisitos
 Navegue até o diretório do projeto:
 
 # Navegue até o diretório do projeto:
+   ```bash
 $ cd seu-projeto
 
 # Instale as dependências:
+   ```bash
 $ yarn install
 
 # Inicie o servidor de desenvolvimento:
+   ```bash
 $ yarn run dev
 
 Acesse o aplicativo em seu navegador em http://localhost:.
